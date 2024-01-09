@@ -1,0 +1,151 @@
+/* Evan Lyon 11/17 */
+header {
+	font-family: Verdana, Arial, serif;
+	font-size: 2em;
+	text-align: center;
+	padding: 0.2em;
+	background-color: #96050c;
+}
+
+header a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+nav {
+	text-align: center;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	background-color: #FFFFFF;
+}
+
+nav li {
+	display: inline;
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-left: 0%;
+	padding-right: 0;
+	list-style-type: none;
+}
+	
+nav li a {
+	display: inline-block;
+}
+
+nav img {
+	max-height: 100px;
+}
+
+#box {
+	background-color: #f1f1f1;
+}
+
+main img {
+	width: 40%;
+	margin-left: 5%;
+}
+
+
+main article {
+	float: right;
+	width: 40%;
+	font-size: 1.75em;
+	margin-right: 5%;
+	text-align: center;
+}
+
+main article img {
+	width: 60%;
+}
+
+
+#base {
+	text-align: center;
+	float: left;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 1.75em;
+}
+
+#attack {
+	text-align: center;
+	float: right;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 1.4em;
+}
+
+#clans {
+	font-size: 1.5em;
+	text-align: center;
+	max-width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+	
+#bowl {
+	text-align: center;
+	float: left;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+	background-color: #f1f1f1;
+}
+
+#play {
+	text-align: center;
+	float: left;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+	margin-top: 2em;
+	background-color: #f1f1f1;
+}
+
+#draft {
+	text-align: center;
+	background-color: #f1f1f1;
+	float: right;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+}
+
+#surf {
+	text-align: center;
+	float: left;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+	background-color: #f1f1f1;
+}
+
+#go {
+	text-align: center;
+	background-color: #f1f1f1;
+	float: right;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+}
+
+#missions {
+	text-align: center;
+	background-color: #f1f1f1;
+	max-width: 40%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: 2em;
+	margin-top: 3em;
+	float: left;
+}
+
+	
